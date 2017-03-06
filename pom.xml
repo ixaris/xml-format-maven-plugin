@@ -8,7 +8,7 @@
   </parent>
   <groupId>au.com.acegi</groupId>
   <artifactId>xml-format-maven-plugin</artifactId>
-  <version>3.0.4</version>
+  <version>3.0.4.IX</version>
   <packaging>maven-plugin</packaging>
   <name>XML Format Maven Plugin</name>
   <description>Automatically formats XML files in a project.</description>
